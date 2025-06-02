@@ -912,6 +912,11 @@ video {
     margin-bottom: 15rem;
   }
 
+  .sm\:my-auto {
+    margin-top: auto;
+    margin-bottom: auto;
+  }
+
   .sm\:-mr-10 {
     margin-right: -2.5rem;
   }
